@@ -4,7 +4,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   var vn = 'https://cdn.jsdelivr.net/gh/Lazack28/Lazack-md@main/media/Alive.mp3'
   let url = 'https://github.com/Lazack28/Lazack-md'
   let murl = 'https://youtu.be/3j_EIP--2t8?si=4TFWV0On6Bl1wr-e'
-  let img = 'https://i.imgur.com/QMyKIPq.jpeg'
+  let img = 'https://i.imgur.com/CMPXUgw.jpeg'
   let con = {
     key: {
       fromMe: false,
@@ -30,10 +30,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'LAZACK MD ALIVE',
+        title: 'SLG MD ALIVE',
         body: 'Lazack md',
         thumbnailUrl: img,
-        sourceUrl: 'https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9',
+        sourceUrl: 'https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
